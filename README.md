@@ -1,7 +1,7 @@
 # upworkblog
 Something about upwork written here.
 
-### Why you are not hired.
+### Why you are not hired. (Ref from quora)
 There are many reasons and causes why clients not hiring one of us for the job and decline your our job proposal. Responsible things for job proposal declined.
 
 Our profile is not well written and not highlighting your strengths and skills.
